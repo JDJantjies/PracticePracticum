@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticePracticum</string>
+    <string name="appHeader">Screen Smart</string>
+    <string name="textViewName">Jared Jantjies</string>
+    <string name="textViewStNumber">ST10456871</string>
+    <string name="proceedButtonText">Proceed</string>
+    <string name="exitButtonText">Exit</string>
+    <string name="nextPageButtonTExt">Next</string>
+    <string name="backButtonText">Back</string>
+    <string name="enterDateText">Date</string>
+    <string name="enterTimeText">Time Spent on Phone(mins)</string>
+    <string name="enterDescriptionText">Description</string>
+</resources>
